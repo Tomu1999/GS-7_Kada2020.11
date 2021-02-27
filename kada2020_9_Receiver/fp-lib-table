@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name KUTKiCad_footprint)(type KiCad)(uri C:/Users/siron/Desktop/KiCad/KUT-KiCad-Library-master/KUT-KiCad-Library-master/KUTKiCad_footprint.pretty)(options "")(descr ""))
+  (lib (name kada2020_3)(type KiCad)(uri C:/Users/siron/Desktop/KiCad/新しいフォルダー/kada2020_3/kada2020_3.pretty)(options "")(descr ""))
+)

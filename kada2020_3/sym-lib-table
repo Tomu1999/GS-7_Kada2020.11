@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name KUTKiCad_symbol)(type Legacy)(uri C:/Users/siron/Desktop/KiCad/KUT-KiCad-Library-master/KUT-KiCad-Library-master/KUTKiCad_symbol.lib)(options "")(descr ""))
+  (lib (name RoboKUT_conn)(type Legacy)(uri C:/Users/siron/Desktop/KiCad/kicad-library-master/kicad-library-master/component/RoboKUT_conn.lib)(options "")(descr ""))
+  (lib (name New_Library_1)(type Legacy)(uri ${KIPRJMOD}/New_Library_1.lib)(options "")(descr ""))
+)

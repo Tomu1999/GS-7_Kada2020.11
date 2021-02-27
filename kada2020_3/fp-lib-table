@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name kada2020_3)(type KiCad)(uri ${KIPRJMOD}/kada2020_3.pretty)(options "")(descr ""))
+  (lib (name Communication)(type KiCad)(uri C:/Users/siron/Desktop/KiCad/kicad-library-master/kicad-library-master/footprint/Communication.pretty)(options "")(descr ""))
+  (lib (name KUT_Connector)(type KiCad)(uri C:/Users/siron/Desktop/KiCad/KUT_Connector.pretty-master/KUT_Connector.pretty-master/KUT_Connector.pretty)(options "")(descr ""))
+  (lib (name KUTKiCad_footprint)(type KiCad)(uri C:/Users/siron/Desktop/KiCad/KUT-KiCad-Library-master/KUT-KiCad-Library-master/KUTKiCad_footprint.pretty)(options "")(descr ""))
+)

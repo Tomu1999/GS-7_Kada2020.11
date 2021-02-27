@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name kada2020_3-cache)(type Legacy)(uri C:/Users/siron/Desktop/KiCad/新しいフォルダー/kada2020_3/kada2020_3-cache.lib)(options "")(descr ""))
+  (lib (name KUTKiCad_symbol)(type Legacy)(uri C:/Users/siron/Desktop/KiCad/KUT-KiCad-Library-master/KUT-KiCad-Library-master/KUTKiCad_symbol.lib)(options "")(descr ""))
+)
